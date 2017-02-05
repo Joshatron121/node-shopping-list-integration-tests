@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: tyLcuxD4Jn3d+szSVFtYFksYU2b+CxXofUpNPpl4wjpTEC8FtBJ6aJYKJlI8JIhKOGh5oT9BD4cWLX4v/ChDWWZzSQIRqBRAkJTjSw6WK0dB+63n/redPYwTjiYGLtURfdgl9SRaPWXhNaTslXdL1a8wP/+4Hm9NmKx3ZKuA6mUy9FBFS1pCC1wiPko4eBiAzj9X8LxdjwwLLEApqXqbNnkyo05cAsXpKWc1yCaf1QQTLFOVNcwzO6vKAJw1RVR+s1koFFy+Q8XZkaXR6p2w9XePE7qkg/fvlllur4Pk4i7I4WW0oRqZJYmbMARvSJjmfO82URZGUMgvnN7cXvlKtc08Elc3AnTMAKu3cV3+1LE6KpEd/ulJ0tdaJ5K23jE1RH3Akf/hPktXfNAgEaruVvTTaNu1Jdms1TqP/D8leqEOxC05T2A4/r1mTNl4fyyDSaBKVfEN/20FZyRZMP3VfCTA4o+3QkSU7CN8jX08mgh90i1YTnorel7dz3GK4tky+d4N9qpZav8rh+IHs6y43zegJqLhbVzaMpvKcQLuhItU9NA/hHbbevIvc3m8r0eWYpw9yK7mIOigy2EUa+lQxR35JfEVbPL4tvnlhA5VMbO0rRhy0krKAmn3ST/R1Wvv+4v5tAkVMZpd7nfvLZTprn5gKMEOsx7XF6E4pk9y+Y0=
-  app: https://dry-ravine-71163.herokuapp.com/
+  app: dry-ravine-71163
   on:
     repo: Joshatron121/node-shopping-list-integration-tests
